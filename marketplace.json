@@ -1,0 +1,64 @@
+{
+    "US": [
+        "US"
+    ],
+    "EU5": [
+        "UK",
+        "DE",
+        "FR",
+        "IT",
+        "ES"
+    ],
+    "JP": [
+        "JP"
+    ],
+    "UK": [
+        "UK"
+    ],
+    "PL": [
+        "PL"
+    ],
+    "BE": [
+        "BE"
+    ],
+    "DE": [
+        "DE"
+    ],
+    "FR": [
+        "FR"
+    ],
+    "IT": [
+        "IT"
+    ],
+    "Not Applicable": [
+        "Not Applicable"
+    ],
+    "MX": [
+        "MX"
+    ],
+    "NL": [
+        "NL"
+    ],
+    "SE": [
+        "SE"
+    ],
+    "AU": [
+        "AU"
+    ],
+    "ES": [
+        "ES"
+    ],
+    "CA": [
+        "CA"
+    ],
+    "SA": [
+        "SA"
+    ],
+    "AE": [
+        "AE"
+    ],
+    "MENA": [
+        "SA",
+        "AE"
+    ]
+}
